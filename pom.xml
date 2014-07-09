@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>test.a</groupId>
-
+	<version>1.0</version>
 	<artifactId>testart</artifactId>
 	<packaging>pom</packaging>
 
